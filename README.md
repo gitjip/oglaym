@@ -1,0 +1,2 @@
+# oglaym
+myalgo
